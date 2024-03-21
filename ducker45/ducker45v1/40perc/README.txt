@@ -1,6 +1,6 @@
 45% keyboard
 
-mcu:
+mcu: pro micro
 
 current names of kicad files is wrong, even if the project actually works
 
