@@ -9,4 +9,3 @@ R1->12
 R2->12
 R3->9
 
-layout can be found in the layout folder
