@@ -18,9 +18,9 @@ The keyboard follows a 45 percent layout, optimized for compactness while retain
 - Stabilizers
 
 ### Required Tools
--Soldering iron to solder the switches, the diodes and the MCU
--Pliers for trimming the excess leads of the diodes after soldering
--A USB cable is required for connecting the keyboard to your computer. Depending on the version of the MCU you are using, you may need a specific type of USB cable. For example, if using the Type-C version of the MCU, you will need a Type-C cable
+- Soldering iron to solder the switches, the diodes and the MCU
+- Pliers for trimming the excess leads of the diodes after soldering
+- A USB cable is required for connecting the keyboard to your computer. Depending on the version of the MCU you are using, you may need a specific type of USB cable. For example, if using the Type-C version of the MCU, you will need a Type-C cable
 
 ## Required Abilities
 To assemble this keyboard, you'll need basic tin soldering skills.
@@ -36,8 +36,8 @@ For any inquiries or assistance, feel free to contact me on Telegram: @AngelusPS
 
 ## Photos
 finished:
-![finished_img](https://github.com/Angelussss/Keebs/blob/main/ducker45/ducker45v1/40perc/imgs/ducker45v1pic.jpg)
+![finished_img](https://github.com/Angelussss/Keebs/blob/main/ducker45/ducker45v1/45perc/imgs/ducker45v1pic.jpg)
 render:
-![render_img](https://github.com/Angelussss/Keebs/blob/main/ducker45/ducker45v1/40perc/imgs/ducker45v1render.png?raw=true)
+![render_img](https://github.com/Angelussss/Keebs/blob/main/ducker45/ducker45v1/45perc/imgs/ducker45v1render.png?raw=true)
 
 Thank you for taking the time to explore my project! I hope you find it enjoyable to build and use. Happy typing!
